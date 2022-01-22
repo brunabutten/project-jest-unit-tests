@@ -12,6 +12,8 @@
     - average([1, '2']) // Retorno: undefined;
 */
 
+/* REQUISITO 01 */
+
 const average = (ar) => {
   let soma = 0;
   let media = 0;
