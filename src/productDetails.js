@@ -24,6 +24,8 @@
   ]
 */
 
+/* REQUISITO 06 */
+
 const productDetails = (firstProduct, secondProduct) => [
   {
     name: firstProduct,
