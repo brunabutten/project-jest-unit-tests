@@ -19,6 +19,8 @@
         Use esse conhecimento para te ajudar a lidar com possíveis problemas que esses testes trarão!
 */
 
+/* REQUISITO 04 */
+
 const circle = (radius) => {
   const PI = 3.14;
 
