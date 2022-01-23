@@ -36,6 +36,8 @@ Retorno:
 }
 */
 
+/* REQUISITO 09 */
+
 const characters = {
   arya: {
     name: 'Arya Stark',
