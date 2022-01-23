@@ -9,7 +9,7 @@
     - numbers([2, 'errado', 5]); // Retorna: false
 */
 
-/* REQUISITO 01 */
+/* REQUISITO 02 */
 
 const numbers = (myArray) => {
   for (let i = 0; i < myArray.length; i += 1) {
